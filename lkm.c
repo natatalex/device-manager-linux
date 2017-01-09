@@ -11,7 +11,7 @@
 
 //Информация о модуле, которую можно будет увидеть с помощью Modinfo
 MODULE_LICENSE("LGPL");
-MODULE_AUTHOR("Developer by <Dovgon@yandex.ru>");
+MODULE_AUTHOR("Developer by natatalex>");
 MODULE_DESCRIPTION("System info module");
 MODULE_SUPPORTED_DEVICE("sysinfo");             // /dev/sysinfo
 
